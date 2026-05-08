@@ -1,3 +1,3 @@
-module github.com/google/reftable
+module github.com/hanwen/reftable
 
 go 1.25

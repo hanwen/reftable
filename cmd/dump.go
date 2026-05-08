@@ -15,7 +15,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/google/reftable"
+	"github.com/hanwen/reftable"
 )
 
 func main() {
